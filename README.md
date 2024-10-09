@@ -2,7 +2,7 @@
 
 Krayon is a command-line interface (CLI) tool designed to simplify the interaction and management of Large Language Models (LLMs). It provides a user-friendly way to communicate with LLMs, stream their output to the terminal, and leverage plugins for extended functionality.
 
-[![Krayon](https://img.youtube.com/vi/_jhmjNOXzEo/0.jpg)](https://www.youtube.com/watch?v=_jhmjNOXzEo)
+[![Krayon](https://img.youtube.com/vi/_jhmjNOXzEo/maxresdefault.jpg)](https://www.youtube.com/watch?v=_jhmjNOXzEo)
 
 ### Features:
 
